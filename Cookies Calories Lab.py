@@ -2,7 +2,7 @@
 
 print("Welcome to the cookie calorie counter 3000.")
 
-calorieServ = 200
+calorieServ = 300
 servings = 10
 cookies = 40
 
